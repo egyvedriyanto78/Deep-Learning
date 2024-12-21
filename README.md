@@ -1,6 +1,3 @@
-# Deep-Learning
-DeepL Projects
-
 # UAS Kapita Selekta Deep Learning
 
 ## Paper
